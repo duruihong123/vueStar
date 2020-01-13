@@ -18,4 +18,6 @@ npm run build
 npm run build --report
 ```
 
+安装完好运行 http://localhost:8082/#/start   
+端口号可自定义
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
