@@ -1,0 +1,23 @@
+module.exports = {
+    _skuPath: '"//sku.duia.com"',
+    _mlistPath: '"//mlist.duia.com"',
+    _listPath: '"//list.duia.com"',
+    _tuPath: '"//tu.duia.com/"',
+    _ucPath: '"//uc.duia.com"',
+    _mucPath: '"//muc.duia.com"',
+    _ssoPath: '"//sso.duia.com"',
+    _livePath: '"//live.duia.com"',
+    _itemPath: '"//item.duia.com"',
+    _mitemPath: '"//mitem.duia.com"',
+    _zhaopinPath: '"//zhaopin.duia.com"',
+    _wechatPath: '"//wechat.api.duia.com"',
+    _bangPath: '"//bang.duia.com"',
+    _commonStaticPath: '"//common.duia.com"',
+    _ntikuPath: '"//ntiku.duia.com"',
+    _aiPath: '"//ai.api.duia.com"',
+    _ucapiPath: '"//ucapi.duia.com"',
+    _commodityPath: '"//commodity.duia.com"',
+    _ntkPath: '"//ntk.duia.com"',
+    _loginPath: '"//login.duia.com"',
+    _resourceapiPath: '"//resourceapi.duia.com"'
+};
